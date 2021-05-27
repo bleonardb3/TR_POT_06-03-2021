@@ -14,5 +14,5 @@ Upon completing the lab, you will have:
 
 ### Step 1. Please click on the link below to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/TR_POT_06-03-2021/raw/main/Lab-1/CreateProjectv06-03-2021.pdf).
+[Instructions](https://github.com/bleonardb3/TR_POT_06-03-2021/raw/main/Lab-1/SetupEnvironmentv06-03-2021.pdf).
 
