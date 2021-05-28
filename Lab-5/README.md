@@ -1,4 +1,4 @@
-# Lab-7: Watson OpenScale Lab
+# Lab-5: Watson OpenScale Lab
 
 ## Introduction
 IBM Watson OpenScale is an open platform that helps remove barriers to enterprise-scale AI. Watson OpenScale enables the enterprise to: 
