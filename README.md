@@ -14,4 +14,4 @@ This session will provide a brief overview of the toolkits and 1 lab on each too
 
 [Lab-4](Lab-4) - This lab will feature IBM's Adversarial Robustness Toolbox (ART). ART is a library dedicated to adversarial machine learning. Its purpose is to allow rapid crafting and analysis of attacks and defense methods for machine learning models. ART provides an implementation for many state-of-the-art methods for attacking and defending classifiers.
 
-[Lab-5](Lab-5) - This demo will feature IBM Watson OpenScale. IBM Watson OpenScale is an open platform that helps remove barriers to enterprise-scale AI by supporting bias mitigation, accuracy, and explainability of outcomes among other features. 
+[Lab-5](Lab-5) - This lab will feature IBM Watson OpenScale. IBM Watson OpenScale is an open platform that helps remove barriers to enterprise-scale AI by supporting bias mitigation, accuracy, and explainability of outcomes among other features. 
