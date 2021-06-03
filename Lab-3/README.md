@@ -16,9 +16,10 @@ For more information see links below:
 
 Upon completing the lab, you will learn how to:
 
-1. load a dataset using a download link
-1. create, train, and evaluate a XGBoost model
-1. use Protodash Algorithm to extract similar examples and compare with the current patient's case
+1. Add a notebook to a Watson Studio project
+2. Load a dataset using a download link
+3. Create, train, and evaluate a XGBoost model
+4. Use Protodash Algorithm to extract similar examples and compare with the current patient's case
 
 ### Step 1. Please click on the link below to download the instructions to your machine.
 
