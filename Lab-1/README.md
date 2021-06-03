@@ -9,8 +9,9 @@ This lab will set up the Watson Studio environment for subsequent labs and intro
 Upon completing the lab, you will have:
 
 1. Created a project
-1. Created an object storage instance and associate it with the project
-1. Initiate the IBM Watson OpenScale Auto setup. 
+1. Associated a Machine Learning service with the project
+1. Created a Deployment space
+1. Created an instance of Watson OpenScale
 
 ### Step 1. Please click on the link below to download the instructions to your machine.
 
