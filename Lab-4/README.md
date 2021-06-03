@@ -26,10 +26,11 @@ pages = {1453--1460}
 
 Upon completing the lab, you will learn how to:
 
-1. load a Tensorflow trained model
-1. create an ART classifier object using the loaded model
-1. perfom an adversarial attack
-1. perfom a defense to make sure manipulated images can still be classified correctly
+1. Add a notebook to a Watson Studio project
+2. Load a Tensorflow trained model
+3. Create an ART classifier object using the loaded model
+4. Perfom an adversarial attack
+5. Perfom a defense to make sure manipulated images can still be classified correctly
 
 ### Step 1. Please click on the link below to download the instructions to your machine.
 
